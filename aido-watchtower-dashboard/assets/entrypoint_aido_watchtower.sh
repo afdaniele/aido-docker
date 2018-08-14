@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 
 # constants
-# IP=$(ifconfig wlan0 | grep "inet " | awk -F'[: ]+' '{ print $3 }')
 HOSTNAME=$(hostname)
 
 # install/update compose

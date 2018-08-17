@@ -1,2 +1,3 @@
-# aido-docker
-Dockerfile(s) for the AIDO competition 
+# compose-docker
+
+Dockerfile(s) that deploy the \compose\ platform.
